@@ -1,4 +1,4 @@
-baseURL = "http://pride.codes/"
+baseURL = "https://pride.codes/"
 languageCode = "en-us"
 title = "pride.codes"
 
@@ -33,7 +33,7 @@ googleAnalytics = ""
   # [[params.navlinks]]
   # name = "Get in touch"
   # url = "contact/"
-  
+
   [params.social]
   facebook      = "full page or profile url in facebook"
   googleplus    = "full profile url in googleplus"
