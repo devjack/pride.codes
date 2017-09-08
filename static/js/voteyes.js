@@ -1,4 +1,19 @@
-window.onload = insert;
+addLoadEvent(insert)
+
+function addLoadEvent(func) {
+  if (window.addEventListener)
+    window.addEventListener("load", func, false);
+  else if (window.attachEvent)
+    window.attachEvent("onload", func);
+  else { // fallback
+    var old = window.onload;
+    window.onload = function() {
+      if (old) old();
+      func();
+    };
+  }
+}
+
 
 function insert() {
 
@@ -9,7 +24,9 @@ function insert() {
   '#pridecodes-voteyes-corner-svg {width: 150px;}' +
   '} @media only screen and (max-width: 767px) {' +
   '#pridecodes-voteyes-corner-svg {width: 100px;}' +
-  '}';
+  '}' +
+  '#pridecodes-voteyes-corner-svg { animation: enterIn 2s; }' +
+  '@keyframes enterIn {0% {opacity: 0;}100% {opacity: 100;}}';
 
   var style = document.createElement('style');
   style.innerHTML = css;
