@@ -2,7 +2,7 @@
 showonlyimage = false
 image = "/img/posters/voteyes_corner.png"
 date = "2017-09-11"
-title = "#VoteYes corner"
+title = "Vote Yes Corner"
 weight = 1
 +++
 
