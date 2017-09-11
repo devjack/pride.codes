@@ -6,7 +6,8 @@ title = "Rainbow corner"
 weight = 1
 +++
 
-Support [Australia's #VoteYes](http://www.equalitycampaign.org.au/planyourvote?splash=1) Marriage Equality campaign with a #VoteYes pride corner.
+
+Add a simple pride corner to your website.
 <!--more-->
 
 To add the Rainbow Corner just paste this script tag at the end of your `body`:
