@@ -3,7 +3,7 @@ showonlyimage = false
 image = "/img/posters/voteyes_corner.png"
 date = "2017-09-11"
 title = "#VoteYes corner"
-weight = 3
+weight = 1
 +++
 
 Support [Australia's #VoteYes](http://www.equalitycampaign.org.au/planyourvote?splash=1) Marriage Equality campaign with a #VoteYes pride corner.
