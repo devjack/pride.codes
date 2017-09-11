@@ -11,7 +11,7 @@ Support [Australia's #VoteYes](http://www.equalitycampaign.org.au/planyourvote?s
 
 To add the corner just paste in this script tag and we handle the rest. The #VoteYes corner comes in two variants depending on the design of your website (left aligned, or right aligned.)
 
-![](/img/samples/vote_yes_corner.png)
+![](/img/samples/vote_yes_corner.png =250x)
 
 To add the **right** aligned corner paste this script tag at the end of your `body`:
 
