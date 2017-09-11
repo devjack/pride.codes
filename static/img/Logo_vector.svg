@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="411px" height="411px" viewBox="0 0 411 411" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>Group@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M205.5,411 C92.0054839,411 0,318.994516 0,205.5 C0,92.0054839 92.0054839,0 205.5,0 C318.994516,0 411,92.0054839 411,205.5 C411,318.994516 318.994516,411 205.5,411 Z M98.7734359,207.434637 L117.609203,188.369166 L137.134083,168.844285 L120.135952,152.075859 L64.7771739,207.434637 L120.135952,262.793415 L137.134083,245.795284 L98.7734359,207.434637 Z M227.946109,118.38587 L160.18329,286.529543 L187.747827,286.529543 L255.510646,118.38587 L227.946109,118.38587 Z M312.61773,207.434637 L274.257083,245.795284 L291.255214,262.793415 L346.613992,207.434637 L291.255214,152.075859 L274.257083,168.844285 L293.781964,188.369166 L312.61773,207.434637 Z" id="path-1"></path>
+    </defs>
+    <g id="LOGO" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="pride-codes-logo" transform="translate(-7.000000, -7.000000)">
+            <g id="Group" transform="translate(7.000000, 7.000000)">
+                <circle id="Oval" fill="#FFFFFF" cx="205" cy="207" r="198"></circle>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Combined-Shape" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+                <g id="Rainbow" mask="url(#mask-2)">
+                    <g transform="translate(205.302794, 205.763227) rotate(-68.500000) translate(-205.302794, -205.763227) translate(-7.697206, -5.236773)">
+                        <rect id="Rectangle-2" fill="#D3555C" x="-0.000747221744" y="0.0027712616" width="425.524321" height="70.2223246"></rect>
+                        <rect id="Rectangle-2-Copy" fill="#F48D3A" x="-0.000747221744" y="70.2250959" width="425.524321" height="70.2223246"></rect>
+                        <rect id="Rectangle-2-Copy-2" fill="#FDC753" x="-0.000747221744" y="140.44742" width="425.524321" height="70.2223246"></rect>
+                        <rect id="Rectangle-2-Copy-3" fill="#70BC53" x="-0.000747221744" y="210.669745" width="425.524321" height="70.2223246"></rect>
+                        <rect id="Rectangle-2-Copy-4" fill="#249CD5" x="-0.000747221744" y="280.89207" width="425.524321" height="70.2223246"></rect>
+                        <rect id="Rectangle-2-Copy-5" fill="#9D61A4" x="-0.000747221744" y="351.114394" width="425.524321" height="70.2223246"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
