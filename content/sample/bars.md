@@ -1,12 +1,12 @@
 +++
 showonlyimage = false
 image = "/img/posters/pride_bars.png"
-date = "2017-09-07"
+date = "2017-09-10"
 title = "Pride bars"
 weight = 2
 +++
 
-Add a simple pride strip at the top of your website or UI element.
+Add a simple pride strip at the top of your website or div.
 <!--more-->
 
 ## Pride bar

@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 image = "/img/posters/code_corner.png"
-date = "2017-09-07"
+date = "2017-09-08"
 title = "Pride Codes corner"
 weight = 1
 +++

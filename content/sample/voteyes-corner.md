@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 image = "/img/posters/voteyes_corner.png"
-date = "2017-09-07"
+date = "2017-09-11"
 title = "#VoteYes corner"
 weight = 3
 +++
@@ -10,6 +10,8 @@ Support [Australia's #VoteYes](http://www.equalitycampaign.org.au/planyourvote?s
 <!--more-->
 
 To add the corner just paste in this script tag and we handle the rest. The #VoteYes corner comes in two variants depending on the design of your website (left aligned, or right aligned.)
+
+![](/img/samples/vote_yes_corner.png)
 
 To add the **right** aligned corner paste this script tag at the end of your `body`:
 
