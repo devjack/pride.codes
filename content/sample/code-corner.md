@@ -1,6 +1,6 @@
 +++
 showonlyimage = false
-image = "/img/samples/vote_yes_corner.png"
+image = "/img/posters/code_corner.png"
 date = "2017-09-07"
 title = "Pride Codes corner"
 weight = 1

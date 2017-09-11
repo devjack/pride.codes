@@ -1,6 +1,6 @@
 +++
 showonlyimage = false
-image = "/img/samples/pride_full.png"
+image = "/img/posters/pride_bars.png"
 date = "2017-09-07"
 title = "Pride bars"
 weight = 2
