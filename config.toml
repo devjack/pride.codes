@@ -48,6 +48,9 @@ googleAnalytics = "UA-106326008-1"
     property="og:site_name"
     content="pride.codes"
 [[params.meta]]
+    property="og:description"
+    content="Helping Aussies to 'fly the flag' and show their support for their LGBTQI+ friends and colleagues."
+[[params.meta]]
     property="og:url"
     content="https://pride.codes"
 [[params.meta]]
