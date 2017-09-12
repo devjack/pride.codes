@@ -25,9 +25,8 @@ function insert() {
   '} @media only screen and (max-width: 767px) {' +
   '#pridecodes-code-corner-svg {width: 50px;}' +
   '}' +
-  '#pridecodes-code-corner-svg { animation: enterIn 2s; }' +
   '@keyframes enterIn {0% {opacity: 0;}100% {opacity: 100;}}' +
-  '#pridecodes-code-corner-svg { transition: all .2s ease-in-out; }' +
+  '#pridecodes-code-corner-svg { animation: enterIn 2s; transition: all .2s ease-in-out; z-index: 1000; }' +
   '#pridecodes-code-corner-svg:hover { transform: scale(1.1); transform-origin:right top;}';
 
   var style = document.createElement('style');
