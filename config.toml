@@ -37,3 +37,28 @@ googleAnalytics = "UA-106326008-1"
   [params.social]
   twitter       = "https://twitter.com/pridecodes"
   github        = "https://github.com/devjack/pride.codes"
+
+[[params.meta]]
+    property="og:type"
+    content="article"
+[[params.meta]]
+    property="og:title"
+    content="pride.codes"
+[[params.meta]]
+    property="og:site_name"
+    content="pride.codes"
+[[params.meta]]
+    property="og:url"
+    content="https://pride.codes"
+[[params.meta]]
+    property="og:image"
+    content="https://cdn.pride.codes/img/logo_png_small.png"
+[[params.meta]]
+    property="article:published_time"
+    content="2017-09-12"
+[[params.meta]]
+    property="article:author"
+    content="https://www.twitter.com/developerjack"
+[[params.meta]]
+    property="article:author"
+    content="https://www.twitter.com/_patmurray"
