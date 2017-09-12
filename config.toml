@@ -35,6 +35,5 @@ googleAnalytics = ""
   # url = "contact/"
 
   [params.social]
-  email         = "email@example.com"
   twitter       = "https://twitter.com/pridecodes"
   github        = "https://github.com/devjack/pride.codes"
