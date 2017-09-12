@@ -1,11 +1,8 @@
-/**
-Please note, instead of loading bar.css, we'd recommend using either:
- * bar_util.css for utility helpers (requires custom DOM)
- * bar_body.css, for auto applying to <body> tags.
- */
 .pride-bar {
     margin: 0;
 }
+
+
 .pride-bar:before {
     width: 100%;
     height: 4px;
