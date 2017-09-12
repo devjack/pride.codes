@@ -16,13 +16,13 @@ To add the corner just paste in this script tag and we handle the rest. The #Vot
 To add the **right** aligned corner paste this script tag at the end of your `body`:
 
 ```
-<script type="text/javascript" src="https://pride.codes/js/voteyes.js"></script>
+<script type="text/javascript" src="https://cdn.pride.codes/js/voteyes.js"></script>
 ```
 
 To add the **left** aligned corner paste this script tag at the end of your `body`:
 
 ```
-<script type="text/javascript" src="https://pride.codes/js/voteyes-left.js"></script>
+<script type="text/javascript" src="https://cdn.pride.codes/js/voteyes-left.js"></script>
 ```
 
-Want to host it yourself? Sure! Just download [the source](https://github.com/devjack/pride.codes) `voteyes.js` or `voteyes-left.js` file, and include it like any other script file.
+Want to host it yourself? Sure! Just download the source `voteyes.js` or `voteyes-left.js` files, and include it like any other script file.
