@@ -2,7 +2,7 @@
 
 This is the source repo for [https://pride.codes](https://pride.codes). If you're not a developer and wish to learn more about the project please read the [About page](https://pride.codes/about) on our site.
 
-![pride.codes screenshot](/img/samples/pride.codes_screenshot.png)
+![pride.codes screenshot](/static/img/samples/pride.codes_screenshot.png?raw=true "pride.codes")
 
 ### How to use a pride.codes widget to my site?
 We've designed widgets to be as simple as possible, often requiring one line of code.
