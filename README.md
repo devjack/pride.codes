@@ -1,54 +1,30 @@
 # Pride.codes
 
-Visit https://pride.codes for the latest info! 
+This is the source repo for [https://pride.codes](https://pride.codes). If you're not a developer and wish to learn more about the project please read the [About page](https://pride.codes/about) on our site.
 
-## Pride Corner
 
-To add the corner just paste in this script tag and we handle the rest. The #VoteYes corner comes in two variants depending on the design of your website (left aligned, or right aligned.)
 
-To add the **right** aligned corner paste this script tag at the end of your `body`:
+### How to use a pride.codes widget to my site?
+We've designed widgets to be as simple as possible, often requiring one line of code.
 
-```
-<script type="text/javascript" src="https://pride.codes/js/voteyes.js"></script>
-```
+It's as simple as:
 
-To add the **left** aligned corner paste this script tag at the end of your `body`:
+1) Choose a widget from [pride.codes](https://pride.codes).
+2) Click your chosen widget and follow the tutorial.
 
-```
-<script type="text/javascript" src="https://pride.codes/js/voteyes-left.js"></script>
-```
+If you find a widget doesn't work on your site, you can raise a [GitHub issue](https://github.com/devjack/pride.codes/issues) with the bug.
 
-Want to host it yourself? Sure! Just download [the source](https://github.com/devjack/pride.codes) `voteyes.js` or `voteyes-left.js` file, and include it like any other script file.
+### All about Contributing
 
-## Pride bar
+If you would like to contribute to pride.codes we'd love your support. Some of the ways you can help include:
+ - **Promotion & marketing**: share the project with your employer, friends and family and encourage them to fly the rainbow flag too.
+ - **Contribute a new widget**\*: if you've come up with a new rainbow flag you can contribute it for others to use too.
+ - **Raise and fix bugs**: If you find a bug, [let us know](https://github.com/devjack/pride.codes/issues)! Better still, if you know how to fix it [open a pull request](https://github.com/devjack/pride.codes/pulls)
 
-You can also add a pride bar across the top of any element by using the class `pride-bar` on that element.
-This gives the element a `margin: 0` and adds the bar using background border `:before` the element.
+## Contributing
 
-For example, we have have a `.pride-bar` on the body tag: `<body class="pride-bar">`.
+We have a [contributing guide](CONTRIBUTING.md) that outlines how you can raise bugs, contribute new widgets and help the project grow. It's important that you also read out [Code of Conduct](CODEOFCONDUCT.md) when contributing to and participating in, the pride.codes community. This includes commits, code, comments, issues, pull requests etc. etc.
 
-## Pride strip
+## Code of Conduct
 
-You can also add a pride bar across the top of any element by using the class `pride-bar` div as the first child in that div.
-This may be preferable if you do not want to modify margins, or you want to apply the style to a child element within a page (such as this sample div).
-
-## Rainbow Corner
-
-To add the Rainbow Corner just paste this script tag at the end of your `body`:
-
-```
-<script type="text/javascript" src="https://pride.codes/js/voteyes.js"></script>
-```
-
-Want to host it yourself? Sure! Just download [the source](https://github.com/devjack/pride.codes) `rainbowcorner.js` file, and include it like any other script file.
-
-## Code Corner
-
-To add the Code Corner just paste this script tag at the end of your `body`:
-
-```
-<script type="text/javascript" src="https://pride.codes/js/codecorner.js"></script>
-```
-
-Want to host it yourself? Sure! Just download [the source](https://github.com/devjack/pride.codes) `codecorner.js` file, and include it like any other script file.
-
+We have a [Code of Conduct](CODEOFCONDUCT.md) that we encourage you read. As a project specifically setup to celebrate and cheer on the LGBTQI community, we do not tolerate harassment of any kind to contributors or community members.
