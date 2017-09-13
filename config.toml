@@ -30,6 +30,10 @@ googleAnalytics = "UA-106326008-1"
   name = "About"
   url = "about/"
 
+  [[params.navlinks]]
+  name = "Privacy statement"
+  url = "privacy-statement"
+
   # [[params.navlinks]]
   # name = "Get in touch"
   # url = "contact/"
