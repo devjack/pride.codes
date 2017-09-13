@@ -27,7 +27,7 @@ function insert() {
   '#pridecodes-voteyes-left-corner-svg {width: 100px;}' +
   '}' +
   '@keyframes enterIn {0% {opacity: 0;}100% {opacity: 100;}}'+
-  '#pridecodes-voteyes-left-corner-svg { animation: enterIn 2s; transition: all .2s ease-in-out; z-index: 1000; }' +
+  '#pridecodes-voteyes-left-corner-svg { animation: enterIn 2s; transition: all .2s ease-in-out; }' +
   '#pridecodes-voteyes-left-corner-svg:hover { transform: scale(1.1); transform-origin:left top; }';
 
   var style = document.createElement('style');
