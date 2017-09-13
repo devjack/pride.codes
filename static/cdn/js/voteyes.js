@@ -26,9 +26,8 @@ function insert() {
   '} @media only screen and (max-width: 767px) {' +
   '#pridecodes-voteyes-corner-svg {width: 100px;}' +
   '}' +
-  '#pridecodes-voteyes-corner-svg { animation: enterIn 2s; }' +
   '@keyframes enterIn {0% {opacity: 0;}100% {opacity: 100;}}'+
-  '#pridecodes-voteyes-corner-svg { transition: all .2s ease-in-out; }' +
+  '#pridecodes-voteyes-corner-svg { animation: enterIn 2s; transition: all .2s ease-in-out; z-index: 1000; }' +
   '#pridecodes-voteyes-corner-svg:hover { transform: scale(1.1); transform-origin:right top; }';
 
   var style = document.createElement('style');
