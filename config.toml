@@ -34,9 +34,10 @@ googleAnalytics = "UA-106326008-1"
   name = "Privacy statement"
   url = "privacy-statement"
 
-  # [[params.navlinks]]
-  # name = "Get in touch"
-  # url = "contact/"
+[[params.navlinks]]
+  name = "Press"
+  url = "/press/2017-09-18-launch"
+
 
   [params.social]
   twitter       = "https://twitter.com/pridecodes"
