@@ -1,11 +1,11 @@
 +++
+title="Pride Codes Launch"
 url="press/2017-09-18-launch"
 permalink="press/2017-09-18-launch"
 slug="2017-09-18-launch"
 date = "2017-09-18"
+type="press"
 +++
-
-# Pride Codes Launch
 
 Sydney based technologists Patrick Murray and Jack Skinner have come up with a delightfully simple set of rainbow flags that website owners can add to their online presence. The two started the project as a way for technology businesses to actively call out their support for LGBTQI+ staff and hope that the project will grow into other industries as well.
 
