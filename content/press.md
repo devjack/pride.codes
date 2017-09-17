@@ -7,7 +7,12 @@ date = "2017-09-18"
 type="press"
 +++
 
-Sydney based technologists Patrick Murray and Jack Skinner have come up with a delightfully simple set of rainbow flags that website owners can add to their online presence. The two started the project as a way for technology businesses to actively call out their support for LGBTQI+ staff and hope that the project will grow into other industries as well.
+PRESS RELEASE  
+HOLD FOR RELEASE UNTIL 18/09/2017
+
+### Pride Codes Launches to Great Success
+
+*SYDNEY, Australia - September 18, 2017* — Sydney based technologists Patrick Murray and Jack Skinner have come up with a delightfully simple set of rainbow flags that website owners can add to their online presence. The two started the project as a way for technology businesses to actively call out their support for LGBTQI+ staff and hope that the project will grow into other industries as well.
 
 The website [https://pride.codes](https://pride.codes) offers a simple collection of open source code designed to make it easy for any website admin, regardless of technical skills, to fly a rainbow. Just choose a flag, and follow the instructions and let pride.codes do the rest.
 
@@ -19,7 +24,6 @@ Having employers and community leaders visibly show support for their teams and 
 
 Patrick further explained "Flying a flag doesn't require a financial investment, but it's a hugely positive way to show support for staff who are affected by the vote. We're working to reduce the technical barriers for businesses to fly the flag so that they can stand side by side with their team."
 
-
 Last week marked the commencement of the Australian Marriage Survey and it was met with a wave of technology businesses, startups, incubators raising the rainbow flag on their social media.
 
 Disruptor's Handbook is one such brand that went rainbow last week. Co-director Joanne Jacobs commented "we chose to go rainbow because we believe that the future of business is dependent on diversity and inclusiveness. We felt the need to support people who have suffered enormously from exclusion, prejudice and disenfranchisement over generations. No one should have the right to exclude others on the basis of the way they love."
@@ -29,3 +33,20 @@ Joanne continued to say "It's also just good business. Industry innovation witho
 Hundreds more businesses and organisations have signed an open letter of support for marriage equality as published on the Australian Marriage Equality website.
 
 To fly the rainbow flag no your site, visit [https://pride.codes](https://pride.codes) or find the team on Twitter [@pridecodes](https://www.twitter.com/pridecodes).
+
+-----
+
+Pride Codes provides a collection of simple rainbow widgets for businesses to add to their sites, allowing businesses to actively show their support for their LGBTQI+ colleagues. We want businesses to 'fly the flag'. 
+
+
+CONTACTS  
+Press  
+press@pride.codes  
+
+Patrick Murray  
+patrick@pride.codes  
+
+Jack Skinner  
+jack@pride.codes  
+
+
