@@ -40,13 +40,10 @@ Pride Codes provides a collection of simple rainbow widgets for businesses to ad
 
 
 CONTACTS  
-Press  
-press@pride.codes  
-
 Patrick Murray  
-patrick@pride.codes  
+press@patmurray.co    
 
 Jack Skinner  
-jack@pride.codes  
+press@developerjack.com    
 
 
