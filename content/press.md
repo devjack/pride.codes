@@ -44,7 +44,7 @@ Pride Codes provides a collection of simple rainbow widgets for businesses to ad
 
 ### CONTACTS  
 
-**Patrick Murray** - press@patmurray.com      
+**Patrick Murray** - press@patmurray.co      
 **Jack Skinner** - press@developerjack.com      
 
 ### Media
