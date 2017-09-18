@@ -9,7 +9,7 @@ type="press"
 
 ![code.prides co-founders](/img/press/cofounders_header.jpg)
 
-**FOR IMMEDIATE RELEASE FOR IMMEDIATE RELEASE ON 18/09/2017**
+**FOR IMMEDIATE RELEASE ON 18/09/2017**
 
 ### Pride Codes Launches to Great Success
 
