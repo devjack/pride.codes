@@ -35,15 +35,17 @@ Hundreds more businesses and organisations have signed an open letter of support
 
 To fly the rainbow flag no your site, visit [https://pride.codes](https://pride.codes) or find the team on Twitter [@pridecodes](https://www.twitter.com/pridecodes).
 
+<br>
+<br>
+<br>
 
 Pride Codes provides a collection of simple rainbow widgets for businesses to add to their sites, allowing businesses to actively show their support for their LGBTQI+ colleagues. We want businesses to 'fly the flag'.
 
 
 ### CONTACTS  
 
-**Patrick Murray** - press@patmurray.com
-
-**Jack Skinner** - press@developerjack.com    
+**Patrick Murray** - press@patmurray.com      
+**Jack Skinner** - press@developerjack.com      
 
 ### Media
 
