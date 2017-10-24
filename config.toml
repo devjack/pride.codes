@@ -17,7 +17,7 @@ googleAnalytics = "UA-106326008-1"
   copyright = ""
   sidebarAbout = [
     "pride.codes provides a collection of simple widgets for businesses to add to their sites. We want businesses to actively show their support for their LGBTQI+ colleagues.",
-    "We want Aussie businesses to 'fly the flag'.",
+    "We want businesses to 'fly the flag'.",
   ]
   email = ""
 
@@ -30,9 +30,14 @@ googleAnalytics = "UA-106326008-1"
   name = "About"
   url = "about/"
 
-  # [[params.navlinks]]
-  # name = "Get in touch"
-  # url = "contact/"
+  [[params.navlinks]]
+  name = "Privacy statement"
+  url = "privacy-statement"
+
+[[params.navlinks]]
+  name = "Press"
+  url = "/press/2017-09-18-launch"
+
 
   [params.social]
   twitter       = "https://twitter.com/pridecodes"
@@ -49,7 +54,7 @@ googleAnalytics = "UA-106326008-1"
     content="pride.codes"
 [[params.meta]]
     property="og:description"
-    content="Helping Aussies to 'fly the flag' and show their support for their LGBTQI+ friends and colleagues."
+    content="Helping to 'fly the flag' and show their support for  LGBTQI+ friends and colleagues."
 [[params.meta]]
     property="og:url"
     content="https://pride.codes"

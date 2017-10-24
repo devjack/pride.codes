@@ -26,7 +26,7 @@ You can load our pride bar and add a class to your body tag.  e.g.
 
 ```
 ...
-    <link rel="stylesheet" href="https://cdn.pride.codes/css/bar_util.css">
+    <link rel="stylesheet" href="https://cdn.pride.codes/css/bar_helpers.css">
 </head>
 <body class="pride-bar">
 ...
@@ -37,7 +37,7 @@ If you would prefer to apply styles to a positioned DIV, you can use:
 
 ```
 ...
-    <link rel="stylesheet" href="https://cdn.pride.codes/css/bar_util.css">
+    <link rel="stylesheet" href="https://cdn.pride.codes/css/bar_helpers.css">
 ...
 <!-- And then later in your DOM -->
 ...
