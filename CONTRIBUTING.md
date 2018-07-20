@@ -13,6 +13,6 @@ When reporting a bug, we value the extra time you take to include details such a
 ## Pull Requests
 
 1. First create an issue to discuss the feature you wish to implement. e.g. "We need a flag that looks like X."
-2. Ensure that the suggested contribution doesn't require extensive dependencies and is as 'ligthweight' as possible.
+2. Ensure that the suggested contribution doesn't require extensive dependencies and is as 'lightweight' as possible.
 3. If substantially changing or 'breaking' a widget, consider adding it as a variation instead.
 4. Make sure that the code looks nice. We don't enforce linting, we do like to read what you've worked hard on.
