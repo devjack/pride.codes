@@ -21,14 +21,14 @@ function insert() {
 
   var css =
   '@media only screen and (min-width: 768px) {' +
-  '#pridecodes-purple-au-corner {width: 100px;}' +
+  '#pridecodes-purple-code-corner {width: 100px;}' +
   '} @media only screen and (max-width: 767px) {' +
-  '#pridecodes-purple-au-corner {width: 50px;}' +
+  '#pridecodes-purple-code-corner {width: 50px;}' +
   '}' +
-  '#pridecodes-purple-au-corner { animation: enterIn 2s; }' +
+  '#pridecodes-purple-code-corner { animation: enterIn 2s; }' +
   '@keyframes enterIn {0% {opacity: 0;}100% {opacity: 100;}}' +
-  '#pridecodes-purple-au-corner { transition: all .2s ease-in-out; }' +
-  '#pridecodes-purple-au-corner:hover { transform: scale(1.1); transform-origin:right top;}';
+  '#pridecodes-purple-code-corner { transition: all .2s ease-in-out; }' +
+  '#pridecodes-purple-code-corner:hover { transform: scale(1.1); transform-origin:right top;}';
 
   var style = document.createElement('style');
   style.innerHTML = css;
