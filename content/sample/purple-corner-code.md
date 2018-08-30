@@ -1,6 +1,6 @@
 +++
 showonlyimage = false
-image = "/img/posters/purple-corner-au.png"
+image = "/img/posters/purple-corner-code.png"
 date = "2018-08-30"
 title = "'Wear it Purple' Pride Codes corner"
 weight = 1
@@ -10,7 +10,7 @@ Add a simple "Wear it Purple" Pride Codes corner to your website.
 
 <!--more-->
 
-![](/img/posters/purple-corner-au.png)
+![](/img/posters/purple-corner-code.png)
 
 To add the Code Corner just paste this script tag at the end of your `body`:
 
