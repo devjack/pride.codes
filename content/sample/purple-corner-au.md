@@ -15,10 +15,10 @@ Add a simple "Wear it Purple" corner to your website.
 To add the Code Corner just paste this script tag at the end of your `body`:
 
 ```
-<script type="text/javascript" src="https://cdn.pride.codes/js/purple-corner-au.js"></script>
+<script type="text/javascript" src="https://pride.codes/js/purple-corner-au.js"></script>
 ```
 
 
-Want to host it yourself? Sure! Just download [the source](https://cdn.pride.codes/js/purple-corner-au.js) `purple-corner-au.js` file, and include it like any other script file.
+Want to host it yourself? Sure! Just download [the source](https://pride.codes/js/purple-corner-au.js) `purple-corner-au.js` file, and include it like any other script file.
 
 <script type="text/javascript" src="/js/purple-corner-au.js"></script>
