@@ -21,3 +21,4 @@ To add the Code Corner just paste this script tag at the end of your `body`:
 
 Want to host it yourself? Sure! Just download [the source](https://cdn.pride.codes/js/purple-corner-au.js) `purple-corner-au.js` file, and include it like any other script file.
 
+<script type="text/javascript" src="/js/purple-corner-au.js"></script>
